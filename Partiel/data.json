@@ -1,0 +1,59 @@
+{
+  "utilisateurs": [
+    {
+      "Id": 1,
+      "Nom": "Dupont",
+      "Prénom": "Jean",
+      "EntrepriseId": 2,
+      "LieuId": 1
+    },
+    {
+      "Id": 2,
+      "Nom": "Martin",
+      "Prénom": "Sophie",
+      "EntrepriseId": 3
+      "LieuId": 2
+    },
+    {
+      "Id": 3,
+      "Nom": "Lefevre",
+      "Prénom": "Marie",
+      "EntrepriseId": 1
+      "LieuId": 2
+    }
+  ],
+  "entreprises": [
+    {
+      "Id": 1,
+      "Nom": "Gamma Industries",
+      "Description": "Société de recherche"
+    },
+    {
+      "Id": 2,
+      "Nom": "Epsilon Solutions",
+      "Description": "Consultants en informatique"
+    },
+    {
+      "Id": 3,
+      "Nom": "Tech Innovate",
+      "Description": "Startup de haute technologie"
+    },
+    
+  ],
+  "lieux": [
+    {
+      "Id": 1,
+      "Longitude": -23.8765,
+      "Latitude": 67.3456,
+      "Nom": "Centre de données",
+      "Description": "Stockage centralisé"
+    },
+    {
+      "Id": 2,
+      "Longitude": 0.0,
+      "Latitude": 0.0,
+      "Nom": "Point zéro",
+      "Description": "Référence géographique"
+    }
+  ]
+}
